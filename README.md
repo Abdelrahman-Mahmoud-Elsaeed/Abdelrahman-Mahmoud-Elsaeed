@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there, I'm Abdelrahman Mahmoud</h1>
-<h4 align="center">Full-Stack Developer | Transforming Complex Workflows into High-ROI Digital Products</h4>
+<h4 align="center">Full-Stack Developer | Engineering High-Performance Web Applications & Internal Tools</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-mahmoud-akl/" target="_blank">
